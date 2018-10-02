@@ -15,7 +15,7 @@
 
 ### 作品集 
 
-- <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank"><B>個人介紹網站</B></a> <BR>
+- <a href="https://hiwentty.github.io/" target="_blank"><B>個人介紹網站</B></a> <BR>
   ⌞ 使用JS製作視差滾軸效果
 
 - <a href="https://hiwentty.github.io/hexburger/index.html" target="_blank"><B>六角西餐廳(RWD)</B></a> <BR>
