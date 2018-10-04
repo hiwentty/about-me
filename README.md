@@ -34,6 +34,7 @@
 ### 未來規劃
 - 以 Bookstrap 快速建立響應式網頁 提升效率
 - 掌握JS框架 (React or Vue)
+- 使用google analytic分析裝置客群
 <hr>
 
 
