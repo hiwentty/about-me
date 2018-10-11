@@ -8,7 +8,7 @@
 ### 專業技能
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 - 使用 SCSS 管理網頁版型。 
-- 了解 Javascript 基本語法，並使用 Jquery / CSS3 呈現網頁動態效果。
+- 了解 Javascript 基本語法，並使用 JQuery / CSS3 呈現網頁動態效果。
 - 了解 Git / Github 與基本運用
 - 有效運用第三方 plugin 製作動畫效果
 <hr>
