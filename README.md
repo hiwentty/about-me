@@ -20,15 +20,15 @@
 
 - <a href="https://hiwentty.github.io/hexburger/index.html" target="_blank"><B>六角西餐廳(RWD)</B></a> <BR>
   ⌞ 將 PSD 切成 RWD <BR>
-  ⌞ SCSS 管理網頁版型，佐以 Jqery 呈現動態效果（隱藏式選單）<BR>
+  ⌞ SCSS 管理網頁版型，佐以 JQery 呈現動態效果（隱藏式選單）<BR>
 
 - <a href="https://hiwentty.github.io/hexburger/shopcar.html" target="_blank"><B>響應式購物頁面</B></a> <BR>
   ⌞ 兼容手機/平板/手機<BR>
-  ⌞ 使用 css3 + jquery 製作動態效果（選單點擊及點綴式效果）<BR>
+  ⌞ 使用 css3 + jQuery 製作動態效果（選單點擊及點綴式效果）<BR>
 
 - <a href="http://www.yangmei.ehrhotel.com/act/2016_Lovers/" target="_blank"><B>六角企業網站</B></a> <BR>
   ⌞ light Box 插件製作燈箱效果<BR>
-  ⌞ 使用 css3 + jquery 製作動態效果<BR>
+  ⌞ 使用 css3 + jQuery 製作動態效果<BR>
 <hr>
 
 ### 未來規劃
