@@ -8,9 +8,10 @@
 ### 專業技能
 - 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；並能在不依賴 Framework 下進行 RWD 客製化，開發符合各裝置尺寸的網站建置。
 - 使用 SCSS 管理網頁版型。 
-- 了解 Javascript 基本語法，並使用 JQuery / CSS3 呈現網頁動態效果。
+- 使用 JavaScript/JQuery / CSS3 呈現網頁動態效果。
+- 暸解 AJAX 原理並能正確傳遞資料
 - 了解 Git / Github 與基本運用
-- 有效運用第三方 plugin 製作動畫效果
+
 <hr>
 
 ### 作品集 
@@ -31,11 +32,7 @@
 - <a href="https://hiwentty.github.io/hexburger/shopcar.html" target="_blank"><B>響應式購物頁面</B></a> <BR>
   ⌞ 兼容手機/平板/手機<BR>
   ⌞ 使用 CSS3 + jQuery 製作動態效果（選單點擊及點綴式效果）<BR>
-
-- <a href="http://www.yangmei.ehrhotel.com/act/2016_Lovers/" target="_blank"><B>六角企業網站</B></a> <BR>
-  ⌞ light Box 插件製作燈箱效果<BR>
-  ⌞ 使用 CSS3 + jQuery 製作動態效果<BR>
-<hr>
+  
 
 ### 未來規劃
 - 以 Bookstrap 快速建立響應式網頁 提升效率
