@@ -1,4 +1,4 @@
-# 張琬庭 (Wentty Chang)
+# 張琬庭 (Wendy Chang)
 - Birth:1992/07/27
 - Education:中興大學/食品暨應用生物科技學系
 - Location: 桃園/蘆竹
@@ -14,6 +14,12 @@
 <hr>
 
 ### 作品集 
+
+- <a href="https://hiwentty.github.io/Kaohsiung%20Traval%20information/project.html" target="_blank"><B>高雄旅遊網站</B></a> <BR>
+  ⌞ JS撈取JSON資料渲染至網頁
+  
+- <a href="https://hiwentty.github.io/BMI%20counter/BMI_counter.html" target="_blank"><B>BMI計算日誌</B></a> <BR>
+  ⌞ localstorage儲存使用者資料,建立日誌功能
 
 - <a href="https://hiwentty.github.io/" target="_blank"><B>個人介紹網站</B></a> <BR>
   ⌞ 使用JS製作視差滾軸效果
