@@ -23,7 +23,7 @@
   ⌞ localstorage儲存使用者資料,建立日誌功能
 
 - <a href="https://hiwentty.github.io/todolist%20vue/index.html" target="_blank"><B>ToDoList</B></a> <BR>
-  ⌞ vue實作ToDoList功能(分頁,編輯
+  ⌞ vue實作ToDoList功能(分頁,編輯)
 
 - <a href="https://hiwentty.github.io/" target="_blank"><B>個人介紹網站</B></a> <BR>
   ⌞ 使用JS製作視差滾軸效果
